@@ -18,5 +18,13 @@ All electronics components are included in [Parts List.xlsx](https://github.com/
 ![Schematic](https://i.imgur.com/3Y4OwmH.png)
 
 ## Setup
+Empty PCB
+
+![PCB1](https://i.imgur.com/Gm76rKa.jpg)
+![PCB2](https://i.imgur.com/HUUlEHy.jpg?2)
+
+Assembly with components and wiring
+
+![PCB3](https://i.imgur.com/sXQzZc5.jpg?1)
 (WIP)
 
