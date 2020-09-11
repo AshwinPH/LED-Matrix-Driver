@@ -15,9 +15,19 @@ All electronics components are included in [Parts List.xlsx](https://github.com/
 
 ## Wiring
 (WIP)
+
 ![Schematic](https://i.imgur.com/3Y4OwmH.png)
 
 ## Setup
+
+All digital pins will work for all 12 pins, don't forget to change pin definitions AND arduino pin assignments
+
+Pin Assignments (not necessarily default)
+![PINS](https://i.imgur.com/ngK9LDa.png)
+
+Pin Definitions (not necessarily default)
+![PINS2](https://i.imgur.com/q4r4fau.png)
+
 Empty PCB
 
 ![PCB1](https://i.imgur.com/Gm76rKa.jpg)
