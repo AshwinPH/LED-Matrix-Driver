@@ -15,7 +15,7 @@ All electronics components are included in [Parts List.xlsx](https://github.com/
 
 ## Wiring
 (WIP)
-![Schematic](https://imgur.com/a/VSsGYdG)
+![Schematic](https://i.imgur.com/3Y4OwmH.png)
 
 ## Setup
 (WIP)
