@@ -38,4 +38,4 @@ Assembly with components and wiring
 ![PCB3](https://i.imgur.com/sXQzZc5.jpg?1)
 (WIP)
 
-![DEMO](<blockquote class="imgur-embed-pub" lang="en" data-id="a/nP8hCfO" data-context="false" ><a href="//imgur.com/a/nP8hCfO"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
+![DEMO](https://i.imgur.com/ALAZyX4.mp4)
