@@ -38,4 +38,4 @@ Assembly with components and wiring
 ![PCB3](https://i.imgur.com/sXQzZc5.jpg?1)
 (WIP)
 
-![DEMO](https://i.imgur.com/ALAZyX4.mp4)
+![DEMO](/LED Matrix demo vid.gif)
