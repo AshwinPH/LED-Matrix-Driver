@@ -38,4 +38,7 @@ Assembly with components and wiring
 ![PCB3](https://i.imgur.com/sXQzZc5.jpg?1)
 (WIP)
 
+Videos of the borad and software in action
 ![DEMO](https://github.com/AshwinPH/LED-Matrix-Driver/blob/master/LED%20Matrix%20demo%20vid.gif)
+
+![DEMO2](https://github.com/AshwinPH/LED-Matrix-Driver/blob/master/LED%20Matrix%20Text%20demo.gif)
