@@ -38,4 +38,4 @@ Assembly with components and wiring
 ![PCB3](https://i.imgur.com/sXQzZc5.jpg?1)
 (WIP)
 
-![DEMO](/LED Matrix demo vid.gif)
+![DEMO](https://github.com/AshwinPH/LED-Matrix-Driver/blob/master/LED%20Matrix%20demo%20vid.gif)
